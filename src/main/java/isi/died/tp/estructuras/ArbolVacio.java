@@ -71,12 +71,12 @@ public class ArbolVacio<E extends Comparable<E>> extends Arbol<E> {
 
 	@Override
 	public boolean esCompleto() {
-		return false;
+		return true;
 	}
 
 	@Override
 	public boolean esLleno() {
-		return false;
+		return true;
 	}
 
 
