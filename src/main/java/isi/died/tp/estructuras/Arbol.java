@@ -34,6 +34,7 @@ public abstract class Arbol<E extends Comparable<E>> {
 	public abstract boolean esCompleto();
 
 	public abstract boolean esLleno();
+	
 
 	
 }
